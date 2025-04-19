@@ -1,0 +1,13 @@
+# Ignore environments
+ai_voice_env/
+xtts_env/
+
+# Ignore large binaries
+*.pth
+*.dll
+*.lib
+*.dic
+*.mp4
+*.wav
+*.mat
+*.exe
