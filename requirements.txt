@@ -1,0 +1,33 @@
+# Core TTS and voice cloning
+TTS==0.21.1
+torch==2.1.0
+transformers>=4.25.1
+sentencepiece
+torchaudio
+
+# For PPT text extraction
+python-pptx
+
+# SadTalker dependencies
+facexlib
+insightface
+onnxruntime
+numpy
+opencv-python
+scipy
+face-alignment
+imageio
+imageio-ffmpeg
+yacs
+librosa
+numba
+pandas
+gfpgan
+moviepy
+matplotlib
+
+# Additional utilities
+scikit-image
+gradio
+tqdm
+Pillow
